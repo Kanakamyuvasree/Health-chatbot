@@ -1,5 +1,5 @@
 # Health-chatbot
-Health chatbot 
+
 A simple rule-based Health Chatbot built using Python that provides basic medical guidance for common health issues like fever, cough, cold, headache, diabetes, and hypertension. It maps user inputs to predefined responses and offers possible causes and general remedies.
 
 💡 Features
